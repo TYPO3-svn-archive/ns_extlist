@@ -1,0 +1,14 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Wizards
+
+$Id: element_wizard.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+table#typo3-formwizard tr#typo3-formWizardHeader td {
+	font-weight: bold;
+	text-align: center;
+}
+
+body#typo3-wizard-colorpicker-php p.c-head {
+	font-weight: bold;
+}

@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Topbar (whole upper area), containts Logo and toolbar
+
+$Id: topbar.css 7792 2010-05-31 14:20:18Z steffenk $
+- - - - - - - - - - - - - - - - - - - - - */
+
+#typo3-logo {
+	float: left;
+}

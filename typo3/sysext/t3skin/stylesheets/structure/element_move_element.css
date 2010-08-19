@@ -1,0 +1,14 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Move Element
+
+$Id: element_move_element.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+body#typo3-move-el-php img {
+	vertical-align: middle;
+}
+
+body#typo3-move-el-php table#typo3-ttContentList img,
+body#typo3-move-el-php img#c-recIcon {
+	margin-right: 4px;
+}

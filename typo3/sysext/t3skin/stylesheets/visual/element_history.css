@@ -1,0 +1,10 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+History / Undo
+
+$Id: element_history.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+table#typo3-history tr.c-head td,
+table#typo3-history-item tr.c-head td {
+	font-weight: bold;
+}

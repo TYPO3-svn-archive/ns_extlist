@@ -1,0 +1,15 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+TYPO3 backend scaffolding
+
+$Id: main_scaffolding.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+iframe {
+	width: 100%;
+}
+
+#typo3-side-menu,
+iframe {
+	height: 100%;
+	overflow: auto;
+}

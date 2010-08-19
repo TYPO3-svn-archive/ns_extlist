@@ -1,0 +1,14 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Web > Template
+
+$Id: module_web_template.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+.typo3-tstemplate-ceditor-control {
+	cursor: pointer;
+}
+
+dt.typo3-tstemplate-ceditor-label {
+	font-size: 11px;
+	font-weight: bold;
+}

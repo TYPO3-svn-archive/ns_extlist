@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Web > Info
+
+$Id: module_web_info.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+body#typo3-mod-web-info-index-php img {
+	vertical-align: middle;
+}

@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+User > Task Center
+
+$Id: module_user_taskcenter.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+#ext-taskcenter-task-index-php {
+	height: 95%;
+}

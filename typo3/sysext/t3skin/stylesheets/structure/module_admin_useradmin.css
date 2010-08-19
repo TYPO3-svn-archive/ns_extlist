@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Admin Tools > User Admin
+
+$Id: module_admin_useradmin.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+#ext-beuser-mod-index-php a {
+	display: inline-block;
+}

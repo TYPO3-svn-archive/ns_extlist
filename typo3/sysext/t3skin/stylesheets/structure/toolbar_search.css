@@ -1,0 +1,21 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Backend Search
+
+$Id: toolbar_search.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+#backend-search-menu {
+	width: 30px;
+}
+
+#backend-search-menu div {
+	margin: 0px;
+	padding: 3px 5px;
+	position: absolute;
+	width: 180px;
+}
+
+#search-query {
+	padding: 1px;
+	width: 170px;
+}

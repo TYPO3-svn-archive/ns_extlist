@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Go back A-tags
+
+$Id: element_button_back.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+a.typo3-goBack {
+	font-weight: bold;
+}

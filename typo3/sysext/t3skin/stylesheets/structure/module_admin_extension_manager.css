@@ -1,0 +1,9 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Tools > Extension Manager
+
+$Id: module_admin_extension_manager.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+body#typo3-mod-tools-em-index-php a {
+	display: inline-block;
+}

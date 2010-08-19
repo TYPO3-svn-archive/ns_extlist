@@ -1,0 +1,26 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Flash Messages (template.php)
+
+$Id: element_message.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+#typo3-messages {
+	margin-bottom: 10px;
+}
+
+.typo3-message {
+	margin-bottom: 4px;
+	padding: 6px;
+	padding-left: 26px;
+}
+
+.typo3-message ul,
+.typo3-message ol {
+	padding-left: 16px;
+}
+
+.typo3-message .message-header {
+	display: block;
+	margin-bottom: 5px;
+	margin-top: -1px;
+}

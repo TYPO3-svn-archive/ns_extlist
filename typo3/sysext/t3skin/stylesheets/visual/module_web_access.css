@@ -1,0 +1,13 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+Web > Access
+
+$Id: module_web_access.css 7487 2010-05-01 15:05:33Z francois $
+- - - - - - - - - - - - - - - - - - - - - */
+
+table#typo3-permissionMatrix td {
+	text-align: center;
+}
+
+table#typo3-permissionMatrix td.bgColor2 {
+	font-weight: bold;
+}
